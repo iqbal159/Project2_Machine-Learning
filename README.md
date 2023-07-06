@@ -1,5 +1,5 @@
 # Project2_Machine-Learning
-## Machine Learning Project_Data Science (Fusionex Data Scientist Programme)
+## Machine Learning Project_Data Science (Fusionex Data Science Programme)
 
 ## Overview (Section A and B)
 Company A is starting their initiatives into the new age of Data Analytics. To start things off, they collected some data on their current employees, with information to help them understand more about their own employees
